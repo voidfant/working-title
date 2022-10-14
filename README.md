@@ -1,1 +1,1 @@
-Fuck you, leather man! 
+Fuck you, Leatherman! 
