@@ -3,7 +3,7 @@
 
 # environment
 .env 
-vanv/
+venv/
 
 # dependencies
 /node_modules
